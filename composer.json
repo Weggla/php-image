@@ -10,6 +10,11 @@
 			"name": "Blake Kus",
 			"email": "blakekus@gmail.com",
 			"homepage": "http://www.blakek.us"
+		},
+		{
+			"name": "Holger Schneider",
+			"email": "weggla@posteo.de",
+			"role": "developer"
 		}
 	],
     "require": {
